@@ -8,6 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+	
+	
+	//var file = file()
+	
 	var imcval = "0.0"
 	@IBOutlet var lbltaille: UILabel!
 
