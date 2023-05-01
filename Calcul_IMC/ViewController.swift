@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 	
-	
+	//test
 	//var file = file()
 	
 	var imcval = "0.0"
